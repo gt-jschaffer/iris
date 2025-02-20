@@ -51,6 +51,7 @@ const (
 	PB
 	EB
 )
+//comment
 
 // Application is responsible to manage the state of the application.
 // It contains and handles all the necessary parts to create a fast web server.
